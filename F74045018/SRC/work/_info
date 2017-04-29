@@ -1,0 +1,301 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/CayonLiow/Desktop/HW2
+vADD
+Z0 !s110 1493480063
+!i10b 1
+!s100 :UJe??M5>kHfN>^R@]VR93
+IzlEP9H8S`k>Ged]@1fPRU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/CayonLiow/Desktop/HW2/F74045018/SRC
+w1458373027
+8ADD.v
+FADD.v
+L0 3
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1493480063.000000
+Z5 !s107 Jump_Ctrl.v|ALU.v|sign_extend.v|Mux4to1.v|Mux2to1.v|Regfile.v|Controller.v|ADD.v|PC.v|D:/CayonLiow/Desktop/HW2/F74045018/SRC/top.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/CayonLiow/Desktop/HW2/F74045018/SRC/top.v|
+!i113 1
+Z7 o-work work
+n@a@d@d
+vALU
+R0
+!i10b 1
+!s100 ^E`XM65=kQ^75d7Fnd0SK1
+I5XcTWnHVFl@3<EV8Qe8:z3
+R1
+R2
+w1493139759
+8ALU.v
+FALU.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@a@l@u
+vController
+R0
+!i10b 1
+!s100 IiNb<J=7`moKL8R8hWDl`1
+I<E=j;1KfW]FOieefIMYdd1
+R1
+R2
+w1493147566
+8Controller.v
+FController.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@controller
+vDM
+Z8 !s110 1493480062
+!i10b 1
+!s100 f<VRU;@6bZ2BA]NR4HCTS3
+IIB_ROIn@nTAngczlZFI0K0
+R1
+R2
+Z9 w1480613934
+8D:/CayonLiow/Desktop/HW2/F74045018/SRC/DM.v
+FD:/CayonLiow/Desktop/HW2/F74045018/SRC/DM.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z10 !s108 1493480062.000000
+!s107 D:/CayonLiow/Desktop/HW2/F74045018/SRC/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/CayonLiow/Desktop/HW2/F74045018/SRC/DM.v|
+!i113 1
+R7
+n@d@m
+vIM
+R8
+!i10b 1
+!s100 7Q25d3o8mk4<eQ3Cj@GJ_1
+IZJRBBfd9VZc@Y6c?>IUjV3
+R1
+R2
+R9
+8D:/CayonLiow/Desktop/HW2/F74045018/SRC/IM.v
+FD:/CayonLiow/Desktop/HW2/F74045018/SRC/IM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/CayonLiow/Desktop/HW2/F74045018/SRC/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/CayonLiow/Desktop/HW2/F74045018/SRC/IM.v|
+!i113 1
+R7
+n@i@m
+vJump_Ctrl
+R0
+!i10b 1
+!s100 1c3nnnkGmc?de_W_[n^g>2
+IRz79eKf5Q;X;AL:XmjzJ40
+R1
+R2
+w1492975181
+8Jump_Ctrl.v
+FJump_Ctrl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@jump_@ctrl
+vMux2to1
+R0
+!i10b 1
+!s100 8;N3TRc?gV4=OPX4f:@=30
+Im0V@?nOVM<STHkVhZK[i20
+R1
+R2
+w1492986043
+8Mux2to1.v
+FMux2to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@mux2to1
+vMux2to1_h
+R8
+!i10b 1
+!s100 ?A:zZH^kXZB1BQajcK[Kc1
+I@g`gn]8@8^Yj;Jebz]_Ci3
+R1
+R2
+w1493133186
+8D:/CayonLiow/Desktop/HW2/F74045018/SRC/Mux2to1_h.v
+FD:/CayonLiow/Desktop/HW2/F74045018/SRC/Mux2to1_h.v
+L0 3
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/CayonLiow/Desktop/HW2/F74045018/SRC/Mux2to1_h.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/CayonLiow/Desktop/HW2/F74045018/SRC/Mux2to1_h.v|
+!i113 1
+R7
+n@mux2to1_h
+vMux4to1
+R0
+!i10b 1
+!s100 ?bb[HO=:Qzd6SaMaAR:Pm2
+I>8l[3A]oOPiKK:N3]KV^l0
+R1
+R2
+w1492985074
+8Mux4to1.v
+FMux4to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@mux4to1
+vPC
+R0
+!i10b 1
+!s100 NNflHL?TMAlSDTdi>gYz13
+I2Eh2@EYCfiQOd6GeYS]K@2
+R1
+R2
+w1492941402
+8PC.v
+FPC.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@p@c
+vRegfile
+R0
+!i10b 1
+!s100 EN7PCI8@]VhKd:HkK?eNi0
+IT0<YCf9RZn?^gUBmXG4fL3
+R1
+R2
+w1492976051
+8Regfile.v
+FRegfile.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@regfile
+vsign_extend
+R0
+!i10b 1
+!s100 TAi8f16UmQnF[;lBZWk;N3
+IHXEQY19WB2SV?]`[jeiT>1
+R1
+R2
+w1493017340
+8sign_extend.v
+Fsign_extend.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtestfixture1
+R0
+!i10b 1
+!s100 >FUajkUU6D>^>kEHAVDPU0
+IT^aaUiWR<9M27a`]`=1Zg1
+R1
+R2
+w1493307554
+8D:/CayonLiow/Desktop/HW2/F74045018/SRC/testfixture1.v
+FD:/CayonLiow/Desktop/HW2/F74045018/SRC/testfixture1.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CayonLiow/Desktop/HW2/F74045018/SRC/testfixture1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/CayonLiow/Desktop/HW2/F74045018/SRC/testfixture1.v|
+!i113 1
+R7
+vtop
+R0
+!i10b 1
+!s100 4egUeNol_XlPDW^z]ZlVN1
+I;TgUdHL82AIfB@4WMWg;J0
+R1
+R2
+w1493130778
+8D:/CayonLiow/Desktop/HW2/F74045018/SRC/top.v
+FD:/CayonLiow/Desktop/HW2/F74045018/SRC/top.v
+L0 12
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
